@@ -1,0 +1,14 @@
+#textField {
+  background-color: rgb(250, 188, 129) ; 
+  color: rgb(70, 50, 50); 
+  font-style: italic;
+}
+
+#myButton {
+    background-color: rgb(238, 153, 74);
+    font-style: italic;
+
+}#duplicateField{
+    font-style: italic;
+    color: rgb(155, 80, 10);
+}
